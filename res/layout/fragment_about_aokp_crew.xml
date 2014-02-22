@@ -18,6 +18,16 @@
 
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"/>
+                
+        <com.aokp.romcontrol.widgets.DeveloperPreference
+                android:title="Chintan Shah"
+                aokp:nameDev="Chintan Shah"
+                aokp:githubLink="@string/github_chintan"
+                aokp:twitterHandle="Chintan1998"
+                aokp:emailDev="cgintan1998@gmail.com"
+
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"/>
 
     </LinearLayout>
 </ScrollView>
