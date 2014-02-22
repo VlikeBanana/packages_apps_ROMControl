@@ -59,6 +59,7 @@
     <!-- VU TEAM -->
     <string name="donate_jesus" translatable="false">http://forum.xda-developers.com/donatetome.php?u=4620435</string>
     <string name="github_jesus" translatable="false">https://github.com/PartimusPrime</string>
+    <string name="github_chintan" translatable="false">https://github.com/Chintan1998</string>
     
     <!-- AOKP TEAM -->
     <string name="github_akellar" translatable="false">https://github.com/akellar</string>
