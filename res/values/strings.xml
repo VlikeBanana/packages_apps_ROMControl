@@ -47,7 +47,7 @@
     <string name="devs">The Team</string>
     <string name="vu" translatable="false">Vanilla Unicorn Project</string>
     <string name="vu_website_title">VanillaUnicorn website</string>
-    <string name="vu_website_summary">www.vanilla-roms.com - Find all newest releases here</string>
+    <string name="vu_website_summary">www.vanilla-roms.com - Find all news here</string>
     <string name="vu_review_title">Changelog</string>
     <string name="vu_review_summary">View the changelog of the new releases</string>
     <string name="vu_irc_title">Join us on G+</string>
@@ -99,7 +99,7 @@
     <string name="kanglings">The Team</string>
 
      <!--Battery Icon selection-->
-     <string name="battery_status_icon_title">StatusIcon</string>
+     <string name="battery_status_icon_title">Battery Icon</string>
      <string name="battery_bar_nopercent">BatteryBar</string>
      <string name="battery_bar">BatteryBar</string>
      <string name="battery_bar_percent">BatteryBar &amp; percent</string>
